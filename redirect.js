@@ -375,7 +375,6 @@ articles = [
   "seoul7.html",
   "seoul8.html",
   "seoul9.html",
-  "style.css",
   "sydney1.html",
   "sydney10.html",
   "sydney11.html",
